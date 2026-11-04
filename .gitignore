@@ -1,0 +1,25 @@
+# Compiled Binaries & Object Files
+*.exe
+*.out
+*.o
+*.obj
+*.so
+*.dylib
+*.dll
+*.pdb
+*.ilk
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE & Editor Settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS & OneDrive generated files
+Thumbs.db
+desktop.ini
